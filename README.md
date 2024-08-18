@@ -34,7 +34,7 @@ https://spending.gov.ua/new/
 https://www.datacamp.com/datalab/w/3c676a97-2e93-4301-b0eb-0d3850d12c88/edit
 
 
-# &#x1f1fa;&#x1f1e6; Donate dashboard
+# :heart_hands::skin_tone_2: Donate dashboard
 Додаток Стрімліт показує суми коштів, які громади перерахували на підтримку Збройних сил України.
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gdp-dashboard-template.streamlit.app/)

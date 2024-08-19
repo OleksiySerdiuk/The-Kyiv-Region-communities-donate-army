@@ -30,7 +30,7 @@ https://spending.gov.ua/new/
 # :atm: Donate dashboard
 Додаток Стрімліт показує суми коштів, які громади перерахували на підтримку Збройних сил України.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gdp-dashboard-template.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://the-kyiv-region-community-donates-army.streamlit.app/)
 
 ### Як запустити додаток на Вашому обладнанні
 

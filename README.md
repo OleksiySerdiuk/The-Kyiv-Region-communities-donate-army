@@ -55,6 +55,3 @@ https://spending.gov.ua/
 ![image](https://github.com/user-attachments/assets/d229eb66-c73d-4bb2-bfc6-abf77be634d1)
 
 
-##
-### Jupyter Notebook
-https://www.datacamp.com/datalab/w/3c676a97-2e93-4301-b0eb-0d3850d12c88/edit
